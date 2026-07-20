@@ -32,7 +32,6 @@
 
 ### 🐉 System Environment & Tooling Overview
 
-```yaml
 Operating System : Kali Linux (Rolling Release)
 Primary Shell    : ZSH / Bash Terminal
 Core Frameworks  : Metasploit, Burp Suite, Nmap, Wireshark, John the Ripper
